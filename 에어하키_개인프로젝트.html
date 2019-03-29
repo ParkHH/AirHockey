@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>에어하키_개인프로젝트</title>
+	<style>
+		.wrapper{
+			width:900px;
+			height:900px;
+			border:1px solid black;
+			margin:auto;
+			position:relative;
+		}
+
+		#controller button{
+			width:180px;
+			height:80px;
+			border:1px solid black;
+			border-radius:40px;
+			margin-top:20px;
+			font-size:25px;
+			font-weight:bold;
+		}
+
+		#score_com{
+			width:200px;
+			height:200px;
+			background:red;
+			margin-top:30px;
+			font-size:120px;
+			font-weight:bold;
+			line-height:180px;
+			color:white;
+		}
+
+		#score_player{
+			width:200px;
+			height:200px;
+			background:dodgerblue;
+			font-size:120px;
+			font-weight:bold;
+			line-height:180px;
+			color:white;
+		}
+
+	</style>
+	
+	<script src="./Resource/GameObject.js"></script>
+	<script src="./Resource/createBasics.js"></script>
+	<script src="./Resource/background_system.js"></script>
+	<script src="./Resource/Puck.js"></script>
+	<script src="./Resource/Stick.js"></script>
+	<script src="./Resource/ContactArea_Com.js"></script>
+	<script src="./Resource/ContactArea_Player_left.js"></script>
+	<script src="./Resource/ContactArea_Player_right.js"></script>
+	<script src="./Resource/Goalzone.js"></script>
+	<script src="./Resource/serveGame.js"></script>
+	<script src="./Resource/common.js"></script>
+
+ </head>
+ <body onKeyDown="keyAction()">
+ 	<div class="wrapper">
+ 		<div id="stage"></div>
+		<div id="controller">
+			<button onClick="play()" id="bt_play">Play</button>
+			<button onClick="location.reload();">Restart</button>
+			<div id="score_com"></div>
+			<div id="score_player"></div>
+		</div>
+	</div>
+ </body>
+</html>

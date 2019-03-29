@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>start_index</title>
+	<script>
+		var main;
+		var bt_start;
+		var title;
+
+		function createMain(){
+			main.style.width=1500+"px";
+			main.style.height=800+"px";
+			main.style.border=1+"px solid black";
+			main.style.margin="auto";
+			main.style.background="url('./Resource/img/startImage.jpg')";
+			main.style.backgroundSize=100+"%"+100+"%";
+			main.style.position="relative";
+		}
+
+		function createButton(){
+			bt_start.style.width=300+"px";
+			bt_start.style.height=100+"px";
+			bt_start.style.border=1+"px solid black";
+			bt_start.style.borderRadius=20+"px";
+			bt_start.style.position="absolute";
+			bt_start.style.left=600+"px";
+			bt_start.style.top=500+"px";
+			bt_start.style.fontSize=50+"px";
+			bt_start.style.fontFamily="휴먼편지체";
+		}
+	
+		function createTitle(){
+			title.style.width=900+"px";
+			title.style.height=200+"px";
+			title.style.border=1+"px solid black";
+			title.style.borderWidth=15+"px";
+			title.style.borderColor="gray";
+			title.style.background="dodgerblue";
+			title.style.position="absolute";
+			title.style.left=300+"px";
+			title.style.top=200+"px";
+			title.style.borderRadius=80+"px";
+
+			title.innerText="Air Hockey";
+			title.style.fontSize=160+"px";
+			title.style.color="white";
+			title.style.textAlign="center";
+			title.style.lineHeight=180+"px";
+			title.style.fontFamily="휴먼편지체";
+		}
+
+		function init(){
+			main = document.getElementById("main");
+			bt_start = document.getElementById("bt_start");
+			title = document.getElementById("title");
+			createMain();
+			createButton();
+			createTitle();
+		}
+	
+		addEventListener("load", function(){
+			init();
+		});
+	</script>
+
+ </head>
+ <body>
+	<div id="main">
+		<div id="title"></div>
+		<form action="./에어하키_개인프로젝트.html">
+			<button id="bt_start">Start</button>
+		</form>
+	</div>
+ </body>
+</html>
