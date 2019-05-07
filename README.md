@@ -5,12 +5,14 @@
   <li>개발환경 : JavaScript, Editplus</li>
 </ul>
 
-<table style="width:100%;height:100%;">
+<table style="width:300px;height:100%;">
   <tr>
-    <img src="https://blogfiles.pstatic.net/MjAxOTA1MDdfMjcw/MDAxNTU3MjAzMjMzNTIz.ZvnKTGgOzd1KIudYt--pfKkR3-U1DQOptrdE9jT2xX4g.bPEXwqcROZ5gF5CBwALsjZIiaroFv4RLbl1-yhwF6mMg.PNG.phh_92/airhockey_startPage.png?type=w2" style="width:100px;"/>
-  </tr>
-   <tr>
     <td>UI</td>
     <td>상세 설명</td>
+  </tr>
+  <tr>
+    <td>
+    <img src="https://blogfiles.pstatic.net/MjAxOTA1MDdfMjcw/MDAxNTU3MjAzMjMzNTIz.ZvnKTGgOzd1KIudYt--pfKkR3-U1DQOptrdE9jT2xX4g.bPEXwqcROZ5gF5CBwALsjZIiaroFv4RLbl1-yhwF6mMg.PNG.phh_92/airhockey_startPage.png?type=w2" style="width:100px;"/>
+    </td>
   </tr>
 </table>
