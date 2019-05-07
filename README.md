@@ -5,7 +5,7 @@
   <li>개발환경 : JavaScript, Editplus</li>
 </ul>
 
-<table style="width:300px;height:100%;text-align:center;">
+<table width="300px" height="100%" text-align="center">
   <tr>
     <td>UI</td>
     <td>상세 설명</td>
