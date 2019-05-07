@@ -5,7 +5,7 @@
   <li>개발환경 : JavaScript, Editplus</li>
 </ul>
 
-<table width="300px" height="100%" text-align="center">
+<table style="text-align:center;">
   <tr>
     <td>UI</td>
     <td>상세 설명</td>
@@ -18,6 +18,20 @@
       ▶ AirHockey Main Page<br>
       <ul>
         <li>Start Button Click 시 Game Main Page 로 이동!</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <img src="https://blogfiles.pstatic.net/MjAxOTA1MDdfODkg/MDAxNTU3MjAzMjMzMDA2.cosE2Y1wqiRG4Hi37uRoTzd8CoECTQRdOH4zCxBZXvcg.g4WxPlb2rx4cX-HDbMsKpWV5Nqi4kVDFwknwc9xML_Ug.PNG.phh_92/airhockey_gameMain.png?type=w2" width="250px"/>
+    </td>
+    <td>
+      ▶ Game Main Page<br>
+      <ul>
+        <li>Game 의 서브권을 결정함</li>
+        <li>select Button Click 시 내장객체 Math에 의해 추출된 난수값 (0, 1) 에 의해 서브권이 결정됨 </li>
+        <li>이 후에는 setTimeOut() Method 를 통해 div 을 제거 및 게임 시작/li>
+        <li>Puck 의 위치는 서브권에 따라 다르게 </li>
       </ul>
     </td>
   </tr>
