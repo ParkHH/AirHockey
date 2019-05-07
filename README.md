@@ -11,6 +11,6 @@
     <th>상세 설명</th>
   </tr>
   <tr>
-    <img src=""/>
+    <img src="https://blogfiles.pstatic.net/MjAxOTA1MDdfMjcw/MDAxNTU3MjAzMjMzNTIz.ZvnKTGgOzd1KIudYt--pfKkR3-U1DQOptrdE9jT2xX4g.bPEXwqcROZ5gF5CBwALsjZIiaroFv4RLbl1-yhwF6mMg.PNG.phh_92/airhockey_startPage.png?type=w2"/>
   </tr>
 </table>
