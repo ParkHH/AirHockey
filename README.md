@@ -12,7 +12,13 @@
   </tr>
   <tr>
     <td>
-    <img src="https://blogfiles.pstatic.net/MjAxOTA1MDdfMjcw/MDAxNTU3MjAzMjMzNTIz.ZvnKTGgOzd1KIudYt--pfKkR3-U1DQOptrdE9jT2xX4g.bPEXwqcROZ5gF5CBwALsjZIiaroFv4RLbl1-yhwF6mMg.PNG.phh_92/airhockey_startPage.png?type=w2" width="50px"/>
+    <img src="https://blogfiles.pstatic.net/MjAxOTA1MDdfMjcw/MDAxNTU3MjAzMjMzNTIz.ZvnKTGgOzd1KIudYt--pfKkR3-U1DQOptrdE9jT2xX4g.bPEXwqcROZ5gF5CBwALsjZIiaroFv4RLbl1-yhwF6mMg.PNG.phh_92/airhockey_startPage.png?type=w2" width="250px"/>
+    </td>
+    <td>
+      ▶ AirHockey Main Page<br>
+      <ul>
+        <li>Start Button Click 시 Game Main Page 로 이동!</li>
+      </ul>
     </td>
   </tr>
 </table>
