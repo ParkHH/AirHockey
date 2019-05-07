@@ -32,7 +32,7 @@
         <li>select Button Click 시 내장객체 Math에 의해 추출된 난수값 (0, 1) 에 의해 서브권이 결정됨 </li>
         <table>
           <tr>
-            <td>서브권 결정 화면</td>
+            <td colspan="2">서브권 결정 화면</td>
           </tr>
           <tr>
             <td>
