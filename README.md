@@ -44,7 +44,7 @@
           </tr>
         </table>
         <li>이 후에는 setTimeOut() Method 를 통해 div 을 제거 및 게임 시작/li>
-        <li>Puck 의 위치는 서브권에 따라 다르게 </li>
+        <li>Puck 의 위치는 서브권에 따라 다르게 설정됨</li>
       </ul>
     </td>
   </tr>
