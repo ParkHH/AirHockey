@@ -48,4 +48,33 @@
       </ul>
     </td>
   </tr>
+  <tr>
+    <td>
+    <img src="https://blogfiles.pstatic.net/MjAxOTA1MDdfMTAz/MDAxNTU3MjA0MjExMTU0.J1VdMLUXK7_cHZ8GoewasLqA537RdOzVjLcSLhszzggg.MgHbPQXdWDZKP0gxXtXNfQKTrCAmiJaQ5OzQ3RP0LzUg.PNG.phh_92/game_main.png?type=w2" width="250px"/>
+    </td>
+    <td>
+      ▶ Game Page<br>
+      <ul>
+        <li>서브권이 결정되고 나서의 화면</li>
+        <li>붉은색 Stick 은 Com, 파란색 Stick 은 Player 이다.</li>
+        <li>Com 의 Stick 은 setInterval() Method 를 통해 일정한 속도로 좌우로 움직임.</li>
+        <li>각 Stick 에는 충돌 Check Method 가 적용되어있는 Sensor 들로 감싸져 있음</li>
+        <li>각 Puck 은 이동시 Stage 의 벽과 Puck 에 충돌시 속도가 조금씩 줄어듦</li>
+        <li>Puck 뒤 Goal Line 에 또한 충돌 Check 가 적용된 Sensor 가 있어서 충돌시 Goal 처리 및 Score 변경됨</li>
+        <table>
+          <tr>
+            <td colspan="2">Goal 처리 이후 Score 변경 처리 화면</td>
+          </tr>
+          <tr>
+            <td>
+            <img src="https://blogfiles.pstatic.net/MjAxOTA1MDdfNjMg/MDAxNTU3MjA0MzIyMTUz.C7PsSgY83hRLyoJNnIoM65yz_4eLkZDwVFiInLft68Ig.LpP4bbai4nRF1ohsNC9hveK8Gk-iXtRp3CXJFVTY_cEg.PNG.phh_92/Goal.png?type=w2" width="250px"/> 
+            </td>
+            <td>
+              <img src="https://blogfiles.pstatic.net/MjAxOTA1MDdfMjA2/MDAxNTU3MjA0MzIyNDE1.aA54p_XHn0uEOcoyRq7W1vATWhX4FZc0da-pKmy1evQg.Nx-kMfIMtE5Swk_RYfPxP-ijBQ3y1ZsTjN-CgeNu-KEg.PNG.phh_92/socre.png?type=w2" width="250px"/>
+            </td>
+          </tr>
+        </table>
+      </ul>
+    </td>
+  </tr>
 </table>
