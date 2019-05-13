@@ -8,7 +8,7 @@
 <table style="text-align:center;">
   <tr>
     <td align="center"><b>UI</b></td>
-    <td align="center">상세 설명</td>
+    <td align="center"><b>상세 설명</b></td>
   </tr>
   <tr>
     <td>
